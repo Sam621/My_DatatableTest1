@@ -1,1 +1,1 @@
-# Datatale server side processing
+# Datatable server side processing
