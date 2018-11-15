@@ -1,0 +1,15 @@
+﻿1,4911-403C-98,1,Toyota,No Discount,2024.994,0.00
+7,4911-403C-98,1,Audi,No Discount,2039.994,0.00
+8,4911-403C-98,3,Honda,No Discount,28.8404,0.00
+9,4911-403C-98,1,Honda,No Discount,28.8404,0.00
+10,4911-403C-98,6,Benz,No Discount,5.70,0.00
+11,4911-403C-98,2,AWC Logo Cap,No Discount,5.1865,0.00
+12,4911-403C-98,4,Benz,No Discount,20.1865,0.00
+13,6431-4D57-83,1,Benz,No Discount,419.4589,0.00
+14,6431-4D57-83,1,Road-450 Red. 52,No Discount,874.794,0.00
+15,4E0A-4F89-AE,1,Audi,No Discount,809.76,0.001
+18,4E0A-4F89-AE,4,Toyota,No Discount,5.1865,0.00
+19,4E0A-4F89-AE,4,None,No Discount,28.8404,0.00
+20,4E0A-4F89-AE,2,Toyota2,No Discount,722.5949,0.00
+21,4E0A-4F89-AE,3,Toyota,No Discount,2024.994,0.00
+

@@ -1,0 +1,48 @@
+﻿.custom-loader-color 
+{
+    color: #fff !important;
+    font-size: 50px !important;
+}
+
+.custom-loader-background
+{
+    background-color: crimson !important;
+}
+.custom-middle-align 
+{
+    vertical-align: middle !important;
+}
+.group-head {
+    background-color: slategray;
+    color: blue;
+}
+.float-right{
+    float:right;
+}
+
+.dataTables_scrollBody tbody tr {
+    min-height: 15px; /* or whatever height you need to make them all consistent */
+}
+
+#TableId tbody > tr > td {
+    white-space: nowrap;
+    height:10px;
+}
+
+table thead {
+    background-color: dodgerblue;
+}
+
+th, td {
+    white-space: nowrap;
+}
+
+div.dataTables_wrapper {
+    /*width: 800px;*/
+    margin: 0 auto;
+}
+
+tr {
+    height: 10px;
+    font-size: 11px;
+}
